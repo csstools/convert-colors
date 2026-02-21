@@ -26,7 +26,7 @@ scope and avoid unrelated commits.
    cd convert-colors
 
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream git@github.com:jonathantneal/convert-colors.git
+   git remote add upstream git@github.com:csstools/convert-colors.git
 
    # Install the tools necessary for testing
    npm install

@@ -2,11 +2,11 @@
 !.appveyor.yml
 !.editorconfig
 !.gitignore
-!.rollup.js
+!.rollup.mjs
+!.github
 !.tape.js
 !.travis.yml
 *.log*
 *.result.css
 /index.*
 node_modules
-package-lock.json
